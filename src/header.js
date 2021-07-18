@@ -88,6 +88,7 @@ export default function Header() {
           display: mobileMenu ? "flex" : "none",
         }}
       >
+        <button onClick={() => setMobileMenu((p) => !p)}> CLOSE </button>
         <ul>
           <li>09121319130</li>
 
