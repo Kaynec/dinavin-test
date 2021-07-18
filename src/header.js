@@ -8,6 +8,8 @@ import { CgArrowUp } from "react-icons/cg";
 
 import { CgMenu } from "react-icons/cg";
 
+import { CgShoppingCart } from "react-icons/cg";
+
 export default function Header() {
   const [dropdownOpen, setDropdownOpen] = React.useState(false);
 
@@ -22,6 +24,9 @@ export default function Header() {
       <header>
         <div className="logo">
           <img src={logo} alt="CompanyLogo" />
+          <CgShoppingCart size="1.25rem" style={{ marginRight: ".5rem" }} />
+          <span> (۱۴) </span>
+          <span> ۳,۸۸۰,۰۰۰ </span>
         </div>
 
         <CgMenu

@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 12px;
 }
 
 *,
@@ -26,8 +27,14 @@ header {
   align-items: center;
 
   .logo {
+    display: flex;
+    align-items: center;
+    span {
+      margin-right: 0.5rem;
+      color: rgb(111, 103, 92);
+    }
     img {
-      max-width: 25%;
+      max-width: 30%;
       margin: 0.25rem;
     }
   }
@@ -45,14 +52,15 @@ header {
       height: 3px;
       background: gray;
       position: absolute;
-      top: 120%;
+      top: 150%;
     }
 
     a {
       text-decoration: none;
       color: rgb(84, 81, 77);
       position: relative;
-      font-weight: 600;
+      font-weight: 500;
+      font-size: 1rem;
     }
 
     .dropdown {
@@ -94,7 +102,7 @@ header {
       position: absolute;
       right: 50%;
       left: 1.5rem;
-      top: 160%;
+      top: 200%;
       font-weight: 700;
     }
   }
@@ -240,7 +248,7 @@ header {
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
   header {
     nav {
       gap: 0.75rem;
