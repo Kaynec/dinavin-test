@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dinavin-test/static/css/main.0d69423a.chunk.css",
+    "main.js": "/dinavin-test/static/js/main.5c7a3d58.chunk.js",
+    "main.js.map": "/dinavin-test/static/js/main.5c7a3d58.chunk.js.map",
+    "runtime-main.js": "/dinavin-test/static/js/runtime-main.d5794db4.js",
+    "runtime-main.js.map": "/dinavin-test/static/js/runtime-main.d5794db4.js.map",
+    "static/js/2.508ac5fa.chunk.js": "/dinavin-test/static/js/2.508ac5fa.chunk.js",
+    "static/js/2.508ac5fa.chunk.js.map": "/dinavin-test/static/js/2.508ac5fa.chunk.js.map",
+    "index.html": "/dinavin-test/index.html",
+    "static/css/main.0d69423a.chunk.css.map": "/dinavin-test/static/css/main.0d69423a.chunk.css.map",
+    "static/js/2.508ac5fa.chunk.js.LICENSE.txt": "/dinavin-test/static/js/2.508ac5fa.chunk.js.LICENSE.txt",
+    "static/media/0.1c067368.jpg": "/dinavin-test/static/media/0.1c067368.jpg",
+    "static/media/1.63d4a5d3.jpg": "/dinavin-test/static/media/1.63d4a5d3.jpg",
+    "static/media/2.e17f9c59.jpg": "/dinavin-test/static/media/2.e17f9c59.jpg",
+    "static/media/3.6ec71574.jpg": "/dinavin-test/static/media/3.6ec71574.jpg",
+    "static/media/4.956205d1.jpg": "/dinavin-test/static/media/4.956205d1.jpg",
+    "static/media/5.68826984.jpg": "/dinavin-test/static/media/5.68826984.jpg",
+    "static/media/6.b9dad096.jpg": "/dinavin-test/static/media/6.b9dad096.jpg",
+    "static/media/7.38dcccb8.jpg": "/dinavin-test/static/media/7.38dcccb8.jpg",
+    "static/media/8.5097c596.jpg": "/dinavin-test/static/media/8.5097c596.jpg",
+    "static/media/9.55297703.jpg": "/dinavin-test/static/media/9.55297703.jpg",
+    "static/media/Logo.a30877cd.jpg": "/dinavin-test/static/media/Logo.a30877cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5794db4.js",
+    "static/js/2.508ac5fa.chunk.js",
+    "static/css/main.0d69423a.chunk.css",
+    "static/js/main.5c7a3d58.chunk.js"
+  ]
+}
