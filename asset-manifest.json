@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dinavin-test/static/css/main.0d69423a.chunk.css",
-    "main.js": "/dinavin-test/static/js/main.5c7a3d58.chunk.js",
-    "main.js.map": "/dinavin-test/static/js/main.5c7a3d58.chunk.js.map",
+    "main.css": "/dinavin-test/static/css/main.710521d3.chunk.css",
+    "main.js": "/dinavin-test/static/js/main.f049e4c9.chunk.js",
+    "main.js.map": "/dinavin-test/static/js/main.f049e4c9.chunk.js.map",
     "runtime-main.js": "/dinavin-test/static/js/runtime-main.d5794db4.js",
     "runtime-main.js.map": "/dinavin-test/static/js/runtime-main.d5794db4.js.map",
-    "static/js/2.508ac5fa.chunk.js": "/dinavin-test/static/js/2.508ac5fa.chunk.js",
-    "static/js/2.508ac5fa.chunk.js.map": "/dinavin-test/static/js/2.508ac5fa.chunk.js.map",
+    "static/js/2.17e09d99.chunk.js": "/dinavin-test/static/js/2.17e09d99.chunk.js",
+    "static/js/2.17e09d99.chunk.js.map": "/dinavin-test/static/js/2.17e09d99.chunk.js.map",
     "index.html": "/dinavin-test/index.html",
-    "static/css/main.0d69423a.chunk.css.map": "/dinavin-test/static/css/main.0d69423a.chunk.css.map",
-    "static/js/2.508ac5fa.chunk.js.LICENSE.txt": "/dinavin-test/static/js/2.508ac5fa.chunk.js.LICENSE.txt",
+    "static/css/main.710521d3.chunk.css.map": "/dinavin-test/static/css/main.710521d3.chunk.css.map",
+    "static/js/2.17e09d99.chunk.js.LICENSE.txt": "/dinavin-test/static/js/2.17e09d99.chunk.js.LICENSE.txt",
     "static/media/0.1c067368.jpg": "/dinavin-test/static/media/0.1c067368.jpg",
     "static/media/1.63d4a5d3.jpg": "/dinavin-test/static/media/1.63d4a5d3.jpg",
     "static/media/2.e17f9c59.jpg": "/dinavin-test/static/media/2.e17f9c59.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d5794db4.js",
-    "static/js/2.508ac5fa.chunk.js",
-    "static/css/main.0d69423a.chunk.css",
-    "static/js/main.5c7a3d58.chunk.js"
+    "static/js/2.17e09d99.chunk.js",
+    "static/css/main.710521d3.chunk.css",
+    "static/js/main.f049e4c9.chunk.js"
   ]
 }
